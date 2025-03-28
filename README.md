@@ -23,9 +23,9 @@ This project was developed as part of the **Coppel Hackathon**. The goal of the 
 To run this project locally, follow these steps:
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/HugeErick/CoppelHackaton.git
-   cd CoppelHackaton
+```bash
+git clone https://github.com/HugeErick/CoppelHackaton.git
+cd CoppelHackaton
 ```
 
 2. **Set Up the Virtual Environment**
