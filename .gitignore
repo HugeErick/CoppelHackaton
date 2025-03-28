@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 
 # Dont spoil the analysis!
-reports/**
+reports/*
+!reports/.gitkeep
 
 # Distribution / packaging
 .Python
