@@ -1,0 +1,71 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Dont spoil the analysis!
+reports/**
+
+# Distribution / packaging
+.Python
+env/
+ENV/
+env.bak/
+*.egg-info/
+dist/
+build/
+develop-eggs/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.flaskenv
+
+# Optional: Ignore large media files (if applicable)
+*.mp4
+*.avi
+*.mp3
+
+# Optional: Ignore secrets or credentials
+secrets.json
+credentials.json
